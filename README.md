@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bijoysijo&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bijoysijo&theme=dark)](https://git.io/streak-stats)\
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bijoysijo.bijoysijo)
 
