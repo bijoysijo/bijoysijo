@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bijoysijo&theme=dark)](https://git.io/streak-stats)
-https://visitor-badge.laobi.icu/badge?page_id=bijoysijo.bijoysijo
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=bijoysijo.bijoysijo)
+
