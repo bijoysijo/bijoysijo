@@ -5,7 +5,7 @@
 -->
 
 🌱   Diving deep into Ruby and Ruby on Rails\
-💬   Ask me about ruby, rails and version control
+💬   Ask me about Ruby, Rails and Version Control
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bijoysijo&theme=dark)](https://git.io/streak-stats)
 
