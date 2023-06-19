@@ -8,4 +8,4 @@
 💬   Ask me about Ruby, Rails and Version Control.\
 🏗️   Currently building https://foaps.co \
 ⚡    Working on a side project which let's you safely monetize your research data.\
-📚   Learning C, Deployment and DevOps.
+📚   Learning Deployment and DevOps.
