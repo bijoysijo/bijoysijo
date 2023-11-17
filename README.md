@@ -7,5 +7,5 @@
 🌱   I write Ruby and JS\
 💬   Ask me about Ruby, Rails and Version Control\
 🏗️   I work at ultrahuman.com \
-🍁   Building stuff with Rails, Tailwind & Hotwire
+🍁   Building stuff with Rails, Tailwind & Hotwire\
 ⚡    My side projects are now mostly built at https://chirad.co 
